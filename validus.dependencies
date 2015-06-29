@@ -1,34 +1,165 @@
 [{
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
 "repository": "Cyanogenmod/android_device_samsung_qcom-common",
 "target_path": "device/samsung/qcom-common",
+"branch": "cm-12.1"},
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
 "branch": "cm-12.1"
-},
-{
+
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
 "repository": "Marcel112/android_device_samsung_klte",
 "target_path": "android/device/samsung/klte",
 "branch": "cm-12.1"
-},
-{
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
 "repository": "TheMuppets/proprietary_vendor_samsung",
 "target_path": "vendor/samsung",
 "branch": "cm-12.1"
-},
-{
+
+{"remote": "github",
 "repository": "Marcel112/android_device_samsung_msm8974-common",
-"target_path": "device/samsung/msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
 "branch": "cm-12.1"
-},
-{
+
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
 "repository": "Marcel112/android_device_samsung_klte-common",
 "target_path": "device/samsung/klte-common",
+"branch": "cm-12.1"},
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
 "branch": "cm-12.1"
-},
-{
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
+"branch": "cm-12.1"
 "repository": "Cyanogenmod/android_hardware_qcom_fm",
 "target_path": "hardware/qcom/fm",
+"branch": "cm-12.1"},
+
+{"remote": "github",
+"repository": "Marcel112/android_device_samsung_msm8974-common",
+"target_path": "device/samsung/msm8974-common",  
 "branch": "cm-12.1"
-},
-{
 "repository": "Cyanogenmod/android_kernel_samsung_klte",
 "target_path": "kernel/samsung/klte",
 "branch": "cm-12.1"
