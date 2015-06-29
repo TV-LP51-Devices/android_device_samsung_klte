@@ -7,7 +7,7 @@
 },
 {
 "remote": "github",
-"repository": "TV-LP51_Devices/device_samsung_klte",
+"repository": "TV-LP51-Devices/device_samsung_klte",
 "target_path": "device/samsung/klte",
 "branch": "lp5.1"
 },
