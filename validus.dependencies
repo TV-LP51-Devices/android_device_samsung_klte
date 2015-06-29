@@ -7,9 +7,9 @@
 },
 {
 "remote": "github",
-"repository": "Marcel112/android_device_samsung_klte",
+"repository": "TV-LP51_Devices/android_device_samsung_klte",
 "target_path": "android/device/samsung/klte",
-"branch": "cm-12.1"
+"branch": "lp5.1"
 },
 {
 "remote": "github",
@@ -19,13 +19,13 @@
 },
 {
 "remote": "github",
-"repository": "Marcel112/android_device_samsung_msm8974-common",
+"repository": "TV-LP51-Devices/android_device_samsung_msm8974-common",
 "target_path": "device/samsung/msm8974-common",
-"branch": "cm-12.1"
+"branch": "lp5.1"
 },
 {
 "remote": "github",
-"repository": "Marcel112/android_device_samsung_klte-common",
+"repository": "TV-LP51/android_device_samsung_klte-common",
 "target_path": "device/samsung/klte-common",
 "branch": "cm-12.1"
 },
