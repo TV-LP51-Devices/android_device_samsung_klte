@@ -1,14 +1,14 @@
 [
 {
 "remote": "github",
-"repository": "Cyanogenmod/android_device_samsung_qcom-common",
+"repository": "TV-LP51/android_device_samsung_qcom-common",
 "target_path": "device/samsung/qcom-common",
-"branch": "cm-12.1"
+"branch": "lp5.1"
 },
 {
 "remote": "github",
-"repository": "TV-LP51_Devices/android_device_samsung_klte",
-"target_path": "android/device/samsung/klte",
+"repository": "TV-LP51_Devices/device_samsung_klte",
+"target_path": "device/samsung/klte",
 "branch": "lp5.1"
 },
 {
@@ -25,7 +25,7 @@
 },
 {
 "remote": "github",
-"repository": "TV-LP51/android_device_samsung_klte-common",
+"repository": "Cyanogenmod/android_device_samsung_klte-common",
 "target_path": "device/samsung/klte-common",
 "branch": "cm-12.1"
 },
