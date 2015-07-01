@@ -37,8 +37,8 @@
 },
 {
 "remote": "github",
-"repository": "TV-LP51-Devices/android_kernel_samsung_klte",
-"target_path": "android/kernel/samsung/klte",
-"branch": "lp5.1"
+"repository": "Cyanogenmod/android_kernel_samsung_klte",
+"target_path": "kernel/samsung/klte",
+"branch": "cm-12.1"
 }
 ]
