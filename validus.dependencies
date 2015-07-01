@@ -6,6 +6,12 @@
 "branch": "lp5.1"
 },
 {
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "cm-12.1"
+},
+{
 "remote": "github",
 "repository": "TheMuppets/proprietary_vendor_samsung",
 "target_path": "vendor/samsung",
