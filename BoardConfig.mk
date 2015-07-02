@@ -35,5 +35,10 @@ BOARD_RECOVERYIMAGE_PARTITION_SIZE := 15728640
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 2548039680
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 12442369024 # 12442385408 - 16384
 
+# Default.prop overrides to get adb working at boot   
+ADDITIONAL_DEFAULT_PROPERTIES += \
+		ro.secure=0 \
+		ro.adb.secure=0 \
+
 # inherit from the proprietary version
 -include vendor/samsung/klte/BoardConfigVendor.mk
