@@ -1,12 +1,6 @@
 [
 {
 "remote": "github",
-"repository": "CyanogenMod/android_device_samsung_qcom-common",
-"target_path": "device/samsung/qcom-common",
-"branch": "cm-13.0"
-},
-{
-"remote": "github",
 "repository": "CyanogenMod/android_device_qcom_common",
 "target_path": "device/qcom/common",
 "branch": "cm-13.0"
