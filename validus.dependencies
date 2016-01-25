@@ -3,42 +3,30 @@
 "remote": "github",
 "repository": "CyanogenMod/android_device_samsung_qcom-common",
 "target_path": "device/samsung/qcom-common",
-"branch": "cm-12.1"
-},
-{
-    "remote":      "github",
-    "repository":  "CyanogenMod/android_device_qcom_common",
-    "target_path": "device/qcom/common",
-    "branch":      "cm-12.1"
+"branch": "cm-13.0"
 },
 {
 "remote": "github",
 "repository": "TheMuppets/proprietary_vendor_samsung",
 "target_path": "vendor/samsung",
-"branch": "cm-12.1"
+"branch": "cm-13.0"
 },
 {
 "remote": "github",
-"repository": "TV-LP51-Devices/android_device_samsung_msm8974-common",
+"repository": "TV-LP51-Devices/device_samsung_msm8974-common",
 "target_path": "device/samsung/msm8974-common",
-"branch": "lp5.1"
+"branch": "6.0"
 },
 {
 "remote": "github",
 "repository": "Cyanogenmod/android_device_samsung_klte-common",
 "target_path": "device/samsung/klte-common",
-"branch": "cm-12.1"
-},
-{
-"remote": "github",
-"repository": "Cyanogenmod/android_hardware_qcom_fm",
-"target_path": "hardware/qcom/fm",
-"branch": "cm-12.1"
+"branch": "cm-13.0"
 },
 {
 "remote": "github",
 "repository": "Cyanogenmod/android_kernel_samsung_klte",
 "target_path": "kernel/samsung/klte",
-"branch": "cm-12.1"
+"branch": "cm-13.0"
 }
 ]
